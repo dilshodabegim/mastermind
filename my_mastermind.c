@@ -3,6 +3,7 @@
 #include <unistd.h>
 #include <time.h>
 #include <stdio.h>
+// Fayl o'zgartirildi
 
 char *my_play()
 {
